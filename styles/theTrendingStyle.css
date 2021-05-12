@@ -2386,8 +2386,8 @@ video {
 
 .bg-blurple {
   --bg-opacity: 1;
-  background-color: #7289DA;
-  background-color: rgba(114, 137, 218, var(--bg-opacity));
+  background-color: #F06C2A;
+  background-color: rgba(240, 108, 42, var(--bg-opacity));
 }
 
 .hover\:bg-transparent:hover {
